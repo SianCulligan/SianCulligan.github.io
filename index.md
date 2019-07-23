@@ -6,4 +6,4 @@ His name is Littleton, and he's the **~~worst~~/_best_**.
 
 :heart_eyes:
 
-  I also have [Stormageddon]() & [Marvel]() - also great.
+ >There's also [Stormageddon Dark Lord of All](https://www.instagram.com/p/BcJNv4HgNSg/) & [Marvel](https://www.instagram.com/p/Bk0QjbNjub3/) - also great. 
