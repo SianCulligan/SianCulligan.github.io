@@ -1,5 +1,6 @@
 # Sian Culligan
-Dog person, event aficionado, aspiring developer 
+**Dog person, event aficionado, aspiring developer**
+
 
 Growth mindset - the ability to be flexible, roll with the punches, and overcome challenges as they arise. 
 
