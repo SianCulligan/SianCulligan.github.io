@@ -33,3 +33,4 @@ Here's [Stormageddon](https://www.instagram.com/p/BcJNv4HgNSg/) & [Marvel](https
 ##102 Links
 - [Growth Mindet Phrases to Live by](https://mindfulbydesign.com/change-mindset-change-words)
 - [MD Guide](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+- [Emoji Cheat Sheet for GitHub & Slack](https://www.webfx.com/tools/emoji-cheat-sheet/)
