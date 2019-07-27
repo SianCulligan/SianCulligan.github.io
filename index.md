@@ -9,6 +9,9 @@ Growth mindset - the ability to be flexible, roll with the punches, and overcome
 - Always leave the code better than when you found it :wink:
 
 
+1. I'm adding more content in VS Code - let's hope it works! 
+2. _Here's an example of an ordered list **IN ITALICS!*_
+
 Here's me :point_right: ![Brian made me do this](https://images.ctfassets.net/k428n7s2pxlu/62vH8Q8aZuBb1azJa0FW53/7d91e921325956d694e4512790eb081e/sian.jpg) 
 
 
